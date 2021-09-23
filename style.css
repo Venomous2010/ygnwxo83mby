@@ -1,0 +1,9 @@
+.line{
+    width: 1000px;;
+    height: 2px;
+    color: black;
+}
+
+body{
+    background-color: red;
+}
